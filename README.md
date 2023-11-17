@@ -7,4 +7,5 @@ This project is to predict whether or not a customer churns and shows the confid
   I then trained a Keras functional API using cross-validation and grid search.
 
   I then optimised the model to get the highest accuracy and reduce the loss .
-  This is the link to the screen recording https://github.com/orleansb/71682025_Churning_Customers/blob/main/app%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202023-11-17%2017-47-45.mp4 
+  This is the link to the screen recording 
+  https://drive.google.com/file/d/1PZEsklRD68dK6r771zGnJtQuFpqaWzUk/view?usp=sharing 
